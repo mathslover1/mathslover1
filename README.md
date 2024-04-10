@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Vivek Kalariya</h1>
+<h3 align="center">Magento Developer</h3>
 
-<!--
-**mathslover1/mathslover1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning *Magento , Javascript*
 
-Here are some ideas to get you started:
+- 💬 Ask me about *Magento, PHP*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me *vivekkalariya12345@gmail.com*
+
+- ⚡ Fun fact *Reading Books and gathering learning*
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mathslover1&show_icons=true&locale=en&layout=compact" alt="mathslover1" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mathslover1&show_icons=true&locale=en" alt="mathslover1" /></p>
